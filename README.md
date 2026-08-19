@@ -2,8 +2,7 @@
 ## Module Name = Recipe Recommendation System
 To create the system, we can follow these steps
 # Step 1: Generate OpenAI API
-Open this link and create API key ![OpenAI API](https://platform.openai.com/api-keys)
-
+Open this link and create API key <a href = "https://platform.openai.com/api-keys">OpenAI API. </a>
 # Step 2: Create Virtual Environment
 python -m venv env
 .\env\Scripts\activate.ps1
