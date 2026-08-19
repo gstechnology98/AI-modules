@@ -20,4 +20,3 @@ from langchain_community.llms import OpenAI
 
 # Finally run the project using following code
 streamlit run "app.py_file_path"
-streamlit run "app.py_file_path"
